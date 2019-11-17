@@ -10,7 +10,7 @@
   "private": true,
   "version": "3.0.2",
   "dependencies": {
-    "casper": "github:tryghost/Casper#3.0.2",
+    "casper": "github:tryghost/Casper#3.0.3",
     "ghost": "^3.0.2",
     "ghost-storage-adapter-s3": "^2.8.0",
     "lyra": "github:tryghost/lyra",
